@@ -22,6 +22,7 @@ const links = [
   },
   { name: 'Customers', href: '/dashboard/customers', icon: UserGroupIcon },
   { name: 'otro', href: '/dashboard/otro', icon: AcademicCapIcon },
+  { name: 'nuevo', href: '/dashboard/nuevo', icon: AcademicCapIcon },
 ];
 
 export default function NavLinks() {
